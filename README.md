@@ -54,4 +54,4 @@ Inicie o servidor de desenvolvimento:
 
 Bash
 npm start
-Desenvolvido por C4d5.
+
